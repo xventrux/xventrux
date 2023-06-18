@@ -1,16 +1,19 @@
-### Hi there 👋
+![alt text](header.png "Hello World!")
 
-<!--
-**xventrux/xventrux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 About me
 
-Here are some ideas to get you started:
+* Country: **Russian**
+* City: **Simferopol**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a 4th year student of KFU.
+## Skills
+* .NET,
+* HTMl,
+* CSS
+
+## 🗣️ Connect with me
+Telegram
+## 🏆GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=xventrux)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
